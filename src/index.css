@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #3183ff;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  color: #577198;
+  letter-spacing: 0.75px;
+}
+
+td, th {
+  height: 56px;
+  vertical-align: middle!important;
+}
+
+div.row div.col-md-6:first-child, div.row div.col-xs-6:first-child, div.row div.col-sm-6:first-child, div.row div.col-lg-6:first-child {
+  display: none;
+}
+
+div.row div.col-md-6:nth-child(2), div.row div.col-xs-6:nth-child(2), div.row div.col-sm-6:nth-child(2), div.row div.col-lg-6:nth-child(2) {
+  width: 100%;
+}
