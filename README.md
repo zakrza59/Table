@@ -1,2 +1,2 @@
 # Table
-### Table made in ReactJS for recruitment task###
+### Table made in ReactJS for recruitment task
