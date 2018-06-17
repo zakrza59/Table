@@ -91,3 +91,8 @@
 
 .pagination>li[title="previous page"]>a {  color: #ffffff;
 }
+
+.react-bs-table-pagination {
+    display: flex;
+    justify-content: center;    
+}
